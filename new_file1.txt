@@ -1,2 +1,5 @@
 hello
 kumoh national institute of technology
+
+computer sciences
+c programming
